@@ -1,0 +1,26 @@
+[
+  {
+    "id": "belltrigger",
+    "file": "media/bell-trigger.mp3"
+  },
+  {
+    "id": "blockstrigger",
+    "file": "media/blocks-trigger.mp3"
+  },
+  {
+    "id": "horntrigger",
+    "file": "media/horn-trigger.mp3"
+  },
+  {
+    "id": "forest",
+    "file": "media/gmulyk-edit__185216__Suz_Soundcreations__mangrove-forest.mp3"
+  },
+  {
+    "id": "waves",
+    "file": "media/gmulyk-edit__510722__felix-blume__small-waves-on-beach-Thailand.mp3"
+  },
+  {
+    "id": "traffic",
+    "file": "media/gmulyk-edit__Curciotti-Claudio__Cairo-traffic-jam.mp3"
+  }
+]
